@@ -1,7 +1,16 @@
-def fun()
+def fun
+HEAD
 
 fdsfsdf
 fsdfsd
 
 aaa
 aaaaaprint(ff)
+
+    print(ff)
+
+
+
+    ff 购买能够还能
+    大
+ feature-B

@@ -1,2 +1,7 @@
 def fun()
-    print(ff)
+
+fdsfsdf
+fsdfsd
+
+aaa
+aaaaaprint(ff)

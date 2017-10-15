@@ -1,2 +1,7 @@
 def fun()
     print(ff)
+
+
+
+    ff 购买能够还能
+    大

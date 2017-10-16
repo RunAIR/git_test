@@ -1,16 +1,14 @@
-def fun
-HEAD
+improt time 
 
-fdsfsdf
-fsdfsd
-
-aaa
-aaaaaprint(ff)
-
-    print(ff)
+class MAN():
+    def like():
+        print('like')
 
 
 
-    ff 购买能够还能
-    大
- feature-B
+    def kan():
+        print('hai')
+        
+        
+    def cou():
+        print('xixi')
